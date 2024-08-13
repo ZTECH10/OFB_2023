@@ -2,6 +2,11 @@
 
 ## Research Questions
 1. What is the relationship between food security status and health/demographics/needs in our sample?
+
+- Neighbour Survey : neighbour_survey_clean-2024-06-14.csv
+  -   'NaN' value here means that the respondent did not select an option for a boolean column or skipped the question for a factor column.
+  -   if the respondent did not select an option for a boolean column, 'NaN' is treated as False.
+  -   If the respondent skipped the question for a factor / text column, then NaN is treated as 'Prefer not to answer' This means 'NaN' will have the same categorical code as 'Prefer not to' answer column
 2. Considering the stated needs of people accessing food programs, do agencies/the network have the capacity to meet those needs?
 
 ## Data Details
