@@ -3,10 +3,10 @@
 ## Research Questions
 1. What is the relationship between food security status and health/demographics/needs in our sample?
 
-- Neighbour Survey : neighbour_survey_clean-2024-06-14.csv
-  -   'NaN' value here means that the respondent did not select an option for a boolean column or skipped the question for a factor column.
-  -   if the respondent did not select an option for a boolean column, 'NaN' is treated as False.
-  -   If the respondent skipped the question for a factor / text column, then NaN is treated as 'Prefer not to answer' This means 'NaN' will have the same categorical code as 'Prefer not to' answer column
+  - Neighbour Survey : neighbour_survey_clean-2024-06-14.csv
+    -   'NaN' value here means that the respondent did not select an option for a boolean column or skipped the question for a factor column.
+    -   if the respondent did not select an option for a boolean column, 'NaN' is treated as False.
+    -   If the respondent skipped the question for a factor / text column, then NaN is treated as 'Prefer not to answer' This means 'NaN' will have the same categorical code as 'Prefer not to' answer column
 2. Considering the stated needs of people accessing food programs, do agencies/the network have the capacity to meet those needs?
 
 ## Data Details
@@ -77,6 +77,14 @@ In this repository, you will find two password-protected ZIP files containing su
 
 
 
+## Analysis Methodology
+
+<img width="821" alt="Screen Shot 2024-08-13 at 2 51 52 PM" src="https://github.com/user-attachments/assets/ea457f55-0e50-49f8-ac54-4ee075edb522">
+<img width="821" alt="Screen Shot 2024-08-13 at 2 52 11 PM" src="https://github.com/user-attachments/assets/12943ca4-db39-43a5-8d98-b6c9ac6bd350">
+<img width="821" alt="Screen Shot 2024-08-13 at 2 53 51 PM" src="https://github.com/user-attachments/assets/4f1c6c9d-1d50-4420-bdfb-64d44ddf043f">
+<img width="821" alt="Screen Shot 2024-08-13 at 2 54 09 PM" src="https://github.com/user-attachments/assets/de492420-7d4a-4bc7-a281-4cc172029dfe">
+<img width="821" alt="Screen Shot 2024-08-13 at 2 54 21 PM" src="https://github.com/user-attachments/assets/ebe66839-f3f4-4e4c-9616-b5c5ac42dceb">
+<img width="821" alt="Screen Shot 2024-08-13 at 2 54 33 PM" src="https://github.com/user-attachments/assets/22cd03ff-e1c0-4ae0-8b5d-dbab18e7396e">
 
   
 ## Purpose
